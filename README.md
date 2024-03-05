@@ -1,2 +1,2 @@
 # capdomain
-social media site
+social media sites
